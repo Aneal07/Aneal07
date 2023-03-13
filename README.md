@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning freeCodeCamp course<br>I'm looking to collaborate on frontend <br>I'm currently learning frameworks <br>ask me about responsive web design<br>fun fact I am lazy but smart
+I'm currently learning freeCodeCamp course<br>I'm looking to collaborate on frontend <br>I'm currently learning frameworks <br>ask me about responsive web design<br>fun fact I am lazy but get things done
 
 
 # 💻 Tech Stack:

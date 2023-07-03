@@ -1,7 +1,7 @@
 # 💫 About Me:
 😍I'm currently learning the freeCodeCamp course<br>😃I'm looking to collaborate on frontend<br>😬I'm currently learning React<br>🤭Ask me about responsive web design<br>😁Fun fact I am lazy but get things done
 
-<img align="right" alt="coding" width="400px" src="![image](https://github.com/Aneal07/Aneal07/assets/120375605/97592479-d904-41cb-a731-9a22ad87d4fa)
+<img align="right" alt="coding" width="400px" src="https://giphy.com/explore/programmers
 ">
 
 

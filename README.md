@@ -1,6 +1,9 @@
 # 💫 About Me:
 😍I'm currently learning the freeCodeCamp course<br>😃I'm looking to collaborate on frontend<br>😬I'm currently learning React<br>🤭Ask me about responsive web design<br>😁Fun fact I am lazy but get things done
 
+<img align="right" alt="coding" width="400px" src="![image](https://github.com/Aneal07/Aneal07/assets/120375605/acec306a-3b9b-4e7b-bb8a-4b0577b09a63)">
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)

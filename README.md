@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍I'm currently learning the freeCodeCamp course<br>😃I'm looking to collaborate on frontend<br>😬I'm currently learning React<br>🤭Ask me about responsive web design<br>😁Fun fact I am lazy but get things done
+🚀 Journeying Through: Currently navigating the vast curriculum of freeCodeCamp.<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
 
 
 

@@ -1,5 +1,7 @@
-#
-<img src="https://media2.giphy.com/media/Lpu8WcJD6xGxws7Rxg/giphy.gif?cid=ecf05e470ts4wz564amtyj7l0l41dqo4pa65i7aayihjaqla&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/> 
+<div>
+<img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
+</div>
+
 🚀 **Journeying Through:** Currently diving deep into the freeCodeCamp ocean..<br>
 🌐 **Team Ups:** Open to collaboration! Frontend? Backend? Let's explore both universes.<br>
 📘 **Current Quest:** Harnessing the power of React, but feeling the allure of the backend mysteries.<br>

@@ -2,11 +2,17 @@
 <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
 </div>
 
-🚀 **Journeying Through:** Currently diving deep into the freeCodeCamp ocean..<br>
-🌐 **Team Ups:** Open to collaboration! Frontend? Backend? Let's explore both universes.<br>
-📘 **Current Quest:** Harnessing the power of React, but feeling the allure of the backend mysteries.<br>
-🔍 **My Specialty:** Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>
-🌟 **Did You Know?:** They say I'm 'lazy', but I have a knack for getting things done in style.
+
+
+🚀 What I'm Up To: Currently learning a lot on freeCodeCamp. Right now, I'm diving into MERN stack development.
+
+🌐 I Like Teaming Up: I'm open to working together! Whether it's making cool-looking websites or figuring out the backend stuff, count me in.
+
+📘 My Focus Right Now: I'm getting good at React, and I'm also curious about the backend part of things.
+
+🔍 What I'm Good At: I enjoy both making websites look awesome and making sure they work well behind the scenes.
+
+🌟 Fun Fact: People might call me 'lazy,' but I'm just really good at getting things done efficiently and with style.
 
 ---
 <p align="center">

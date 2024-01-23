@@ -4,7 +4,7 @@
 
 
 
-**🚀 What I'm Up To:** Currently, I am learning Foundational C# with Microsoft on freeCodeCamp, and I am also diving into MERN stack development.
+**🚀 What I'm Up To:** Currently, I am learning Foundational C# with Microsoft on freeCodeCamp.
 
 **🌐 I Like Teaming Up:** I'm open to working together! Count me in, whether it's making cool-looking websites or figuring out the backend stuff.
 

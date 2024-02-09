@@ -33,7 +33,5 @@
 ## <img src="https://media2.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=ecf05e47lzlepi3rx68kh0wwd8u0r36oxlb3cncofw1pc734&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-###  <img src="https://media3.giphy.com/media/d8L5peYXGjUf0FWigR/giphy.gif?cid=ecf05e470scuurt5j748si6crw7q94xm4vh1acpmpgnf0l54&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9 alt="GIF" width="300"/>
+###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

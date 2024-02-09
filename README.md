@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
 </div>
 
-**🚀 What I'm Up To:** Currently, I am learning Foundational C# with Microsoft on freeCodeCamp and refining my skills in the MERn (MongoDB, Express.js, React.js, Node.js) stack through freeCodeCamp. Though I've completed a certificate in the MERn stack, I'm continuously enhancing my knowledge to confidently apply it to my projects.
+**🚀 What I'm Up To:** Currently, I am learning Foundational C# with Microsoft on freeCodeCamp and refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through freeCodeCamp. Though I've completed a certificate in the MERn stack, I'm continuously enhancing my knowledge to confidently apply it to my projects.
 
 **🌐 I Like Teaming Up:** I'm open to working together! Count me in, whether it's making cool-looking websites or figuring out the backend stuff.
 
@@ -35,4 +35,4 @@
 ###  <img src="https://media3.giphy.com/media/d8L5peYXGjUf0FWigR/giphy.gif?cid=ecf05e470scuurt5j748si6crw7q94xm4vh1acpmpgnf0l54&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9
+###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9 alt="GIF" width="300"/>

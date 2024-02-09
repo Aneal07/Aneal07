@@ -2,15 +2,16 @@
 <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
 </div>
 
-**🚀 What I'm Up To:** Currently, I am learning Foundational C# with Microsoft on freeCodeCamp and refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through freeCodeCamp. Though I've completed a certificate in the MERn stack, I'm continuously enhancing my knowledge to confidently apply it to my projects.
+**🚀 What I'm Up To:** Currently, I'm learning both Foundational C# with Microsoft on freeCodeCamp and refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through Projects.
 
-**🌐 I Like Teaming Up:** I'm open to working together! Count me in, whether it's making cool-looking websites or figuring out the backend stuff.
+**🌐 I Like Teaming Up:** I enjoy collaborating! Whether it's making websites look great or diving into backend tasks, Count me in.
 
-**📘 My Focus Right Now:** I'm getting good at React, and I'm also curious about the backend part of things. Currently, I'm diving deeper into Express.js and Node.js to broaden my full-stack development skills.
+**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development. Additionally, I'm eager to explore C#, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
 
-**🔍 What I'm Good At** I enjoy making websites look awesome and ensuring they work well behind the scenes.
+**🔍 What I'm Good At** I'm good at making websites look awesome and work smoothly behind the scenes.
 
-**🌟 Fun Fact:** People might call me 'lazy,' but I'm good at getting things done efficiently and with style.
+**🌟 Fun Fact:** People might call me 'lazy,' but I'm efficient and get things done with style.
+
 
 ---
 <p align="center">

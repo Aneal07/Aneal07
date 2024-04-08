@@ -2,11 +2,11 @@
 <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
 </div>
 
-**🚀 What I'm Up To:** Currently, I'm learning both Foundational C# with Microsoft on freeCodeCamp and refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through Projects.
+**🚀 What I'm Up To:** Currently, refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through Projects.
 
 **🌐 I Like Teaming Up:** I enjoy collaborating! Whether it's making websites look great or diving into backend tasks, Count me in.
 
-**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development. Additionally, I'm eager to explore C#, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
+**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development and additionally, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
 
 **🔍 What I'm Good At** I'm good at making websites look awesome and work smoothly behind the scenes.
 

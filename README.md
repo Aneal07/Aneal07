@@ -6,7 +6,7 @@
 
 **🌐 I Like Teaming Up:** I enjoy collaborating! Whether it's making websites look great or diving into backend tasks, Count me in.
 
-**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development and additionally, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
+**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
 
 **🔍 What I'm Good At** I'm good at making websites look awesome and work smoothly behind the scenes.
 

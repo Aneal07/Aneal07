@@ -10,7 +10,7 @@
 
 **🔍 What I'm Good At** I'm good at making websites look awesome and work smoothly behind the scenes.
 
-**📚 Current Pursuit**: In addition to my hands-on projects, I'm also enrolled in a Level 3 course for the NCFE Certificate in Coding Practice. to enhance my knowledge and skills!
+**📚 Current Pursuit**: In addition to my hands-on projects, I'm also enrolled in a Level 3 course for the NCFE Certificate in Coding Practice to enhance my knowledge and skills!
 
 **🌟 Fun Fact:** People might call me 'lazy,' but I'm efficient and get things done with style.
 

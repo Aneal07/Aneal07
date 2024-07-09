@@ -2,17 +2,17 @@
 <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
 </div>
 
-**🚀 What I'm Up To:** Currently, refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack through Projects.
+**🚀 What I'm Up To:** Currently refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
 
-**🌐 I Like Teaming Up:** I enjoy collaborating! Whether it's making websites look great or diving into backend tasks, Count me in.
+**🌐 I Like Teaming Up:** I thrive in collaborative environments, whether it's crafting visually stunning websites or delving into backend challenges.
 
-**📘 My Focus Right Now:** I'm honing my skills in React and diving into backend development, broadening my skill set for diverse projects and deepening my understanding of full-stack development.
+**📘 My Focus Right Now:** I'm sharpening my proficiency in React and expanding my knowledge of backend technologies. I'm also diving into Java basics and studying software methodologies for comprehensive project development.
 
-**🔍 What I'm Good At** I'm good at making websites look awesome and work smoothly behind the scenes.
+**🔍 What I'm Good At:** I excel in creating seamless user experiences and ensuring robust performance behind the scenes.
 
-**📚 Current Pursuit**: In addition to my hands-on projects, I'm also enrolled in a Level 3 course for the NCFE Certificate in Coding Practice to enhance my knowledge and skills!
+**📚 Current Pursuit:** Recently completed the Level 3 NCFE Certificate in Coding Practice, further enhancing my skills and expertise.
 
-**🌟 Fun Fact:** People might call me 'lazy,' but I'm efficient and get things done with style.
+**🌟 Fun Fact:** Often dubbed 'lazy,' I pride myself on efficiency and delivering results with flair.
 
 
 ---

@@ -68,7 +68,3 @@ Often dubbed 'lazy,' I pride myself on efficiency and delivering results with fl
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47fv7ma8fx1j8rhdb4rv0dyzurqvy4o7eknmqreg0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
-  <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ramo0uisuogqwiqm9iutv25yf4bfizegg2jw7tq7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
-</p>

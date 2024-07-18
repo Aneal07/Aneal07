@@ -35,7 +35,6 @@ Often dubbed 'lazy,' I pride myself on efficiency and delivering results with fl
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +52,7 @@ Often dubbed 'lazy,' I pride myself on efficiency and delivering results with fl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 
 ## <img src="https://media1.giphy.com/media/d1E1msx7Yw5NeTkhDi/giphy.gif?cid=ecf05e47v6swv7xkjcr9lcq0oa6kmp9r5y27bxn81xiu6j6o&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 

@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/>
 </p>
-
-# Hi there! 👋 Welcome to My GitHub Profile!
-
 ---
 
 ### 🚀 What I'm Up To:
-Currently refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
+I am currently refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
 
 ### 🌐 I Like Teaming Up:
 I thrive in collaborative environments, whether crafting visually stunning websites or delving into backend challenges.

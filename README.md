@@ -4,9 +4,9 @@
 
 **🚀 What I'm Up To:** Currently refining my skills in the MERN (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
 
-**🌐 I Like Teaming Up:** I thrive in collaborative environments, whether it's crafting visually stunning websites or delving into backend challenges.
+**🌐 I Like Teaming Up:** I thrive in collaborative environments, whether crafting visually stunning websites or delving into backend challenges.
 
-**📘 My Focus Right Now:** I'm sharpening my proficiency in React and expanding my knowledge of backend technologies. I'm also diving into Java basics and studying software methodologies for comprehensive project development.
+**📘 My Focus Right Now:** I'm sharpening my React proficiency and expanding my backend technology knowledge. I'm also diving into Java basics and studying software methodologies for comprehensive project development.
 
 **🔍 What I'm Good At:** I excel in creating seamless user experiences and ensuring robust performance behind the scenes.
 

@@ -43,9 +43,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# <img src="https://media1.giphy.com/media/d1E1msx7Yw5NeTkhDi/giphy.gif?cid=ecf05e47v6swv7xkjcr9lcq0oa6kmp9r5y27bxn81xiu6j6o&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Languages Used:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## <img src="https://media2.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=ecf05e47lzlepi3rx68kh0wwd8u0r36oxlb3cncofw1pc734&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 

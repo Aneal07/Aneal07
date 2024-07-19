@@ -55,12 +55,12 @@ Often dubbed 'lazy,' I pride myself on efficiency and delivering results with fl
 ![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 
-## <img src="https://media1.giphy.com/media/d1E1msx7Yw5NeTkhDi/giphy.gif?cid=ecf05e47v6swv7xkjcr9lcq0oa6kmp9r5y27bxn81xiu6j6o&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Languages Used:
+## Languages Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## <img src="https://media1.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e472ch65hqqghz0w4plgvco3qsn25o5sfu5aoi9c6mu&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies:
+## GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 

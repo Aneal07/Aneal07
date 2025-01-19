@@ -2,11 +2,15 @@
   <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/>
 </p>
 
-# Hi there, I'm Aneal07 👋
+#Aspiring Full-Stack Developer | 🚀 Lifelong Learner
 
-Welcome to my GitHub profile! I'm Anil Maharjan, a passionate developer specializing in creating impactful and efficient software solutions. I love exploring new technologies and applying them to solve real-world problems.
+🎓 Recently completed CS50’s Introduction to Computer Science from Harvard via edX.
+📚 Hands-on with TypeScript, Java, and C#, explored during my NCFE Level 3 course in Coding Practices.
+🌟 Continuously honing skills and embracing new challenges in modern coding practices to stay ahead in the tech world.
 
----
+💡 Passionate about solving real-world problems through code and crafting efficient, scalable solutions.
+
+Let’s connect and build something amazing together! 🌍✨
 
 ### 🚀 What I'm Up To:
 I am currently refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.

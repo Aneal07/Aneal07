@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/>
-</p>
-
-#Aspiring Full-Stack Developer | 🚀 Lifelong Learner
+##Aspiring Full-Stack Developer | 🚀 Lifelong Learner
 
 🎓 Recently completed CS50’s Introduction to Computer Science from Harvard via edX.
 📚 Hands-on with TypeScript, Java, and C#, explored during my NCFE Level 3 course in Coding Practices.
@@ -13,7 +9,7 @@
 Let’s connect and build something amazing together! 🌍✨
 
 ### 🚀 What I'm Up To:
-I am currently refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
+I am refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
 
 ### 🌐 I Like Teaming Up:
 I thrive in collaborative environments, whether crafting visually stunning websites or delving into backend challenges.
@@ -25,7 +21,7 @@ I'm sharpening my React proficiency and expanding my backend technology knowledg
 I excel in creating seamless user experiences and ensuring robust performance behind the scenes.
 
 ### 📚 Current Pursuit:
-Recently completed the Level 3 NCFE Certificate in Coding Practice, further enhancing my skills and expertise.
+I recently completed the Level 3 NCFE Certificate in Coding Practice, further enhancing my skills and expertise.
 
 ### 🌟 Fun Fact:
 Often dubbed 'lazy,' I pride myself on efficiency and delivering results with flair.

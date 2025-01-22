@@ -1,4 +1,4 @@
-##Aspiring Full-Stack Developer | 🚀 Lifelong Learner
+Aspiring Full-Stack Developer | 🚀 Lifelong Learner
 
 🎓 Recently completed CS50’s Introduction to Computer Science from Harvard via edX.
 📚 Hands-on with TypeScript, Java, and C#, explored during my NCFE Level 3 course in Coding Practices.

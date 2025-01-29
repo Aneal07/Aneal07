@@ -4,10 +4,6 @@ Aspiring Full-Stack Developer | 🚀 Lifelong Learner
 📚 Hands-on with TypeScript, Java, and C#, explored during my NCFE Level 3 course in Coding Practices.
 🌟 Continuously honing skills and embracing new challenges in modern coding practices to stay ahead in the tech world.
 
-💡 Passionate about solving real-world problems through code and crafting efficient, scalable solutions.
-
-Let’s connect and build something amazing together! 🌍✨
-
 ### 🚀 What I'm Up To:
 I am refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
 
@@ -24,7 +20,7 @@ I excel in creating seamless user experiences and ensuring robust performance be
 I recently completed the Level 3 NCFE Certificate in Coding Practice, further enhancing my skills and expertise.
 
 ### 🌟 Fun Fact:
-Often dubbed 'lazy,' I pride myself on efficiency and delivering results with flair.
+Often called lazy but get things done in style.
 
 ---
 

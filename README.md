@@ -17,7 +17,11 @@ I'm sharpening my React proficiency and expanding my backend technology knowledg
 I excel in creating seamless user experiences and ensuring robust performance behind the scenes.
 
 ### 📚 Current Pursuit:
-I recently completed the Level 3 NCFE Certificate in Coding Practice, further enhancing my skills and expertise.
+Deep-diving into the MERN stack
+
+Leveling up in React & backend dev with tools like Postman and Insomnia
+
+Learning software dev best practices through hands-on testing and development
 
 ### 🌟 Fun Fact:
 Often called lazy but get things done in style.

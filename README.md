@@ -1,30 +1,19 @@
 Full-Stack Developer in Progress | Blending Code & Quality 🚀
 
-🎓 Completed Harvard’s CS50 (via edX) — building a rock-solid foundation in computer science
-📚 Practical experience with TypeScript, Java, and C# through the NCFE Level 3 Certificate in Coding Practices
-🧪 Actively testing live projects through UTest, sharpening my eye for detail and real-world quality assurance
+👋 Hey there!
+I'm diving deep into full-stack development while actively working as a freelance tester on UTest – exploring live websites, writing test cases, and hunting down bugs.
 
-### 🚀 What I'm Up To:
-I am refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.
+🔧 What I'm Up To:
+Sharpening skills in the MERN stack and getting more hands-on with backend tools like Postman and Insomnia. Also brushing up on Java and software dev practices.
 
-### 🌐 I Like Teaming Up:
-I thrive in collaborative environments, whether crafting visually stunning websites or delving into backend challenges.
+🤝 I Like Teaming Up:
+Love collaborating on real-world projects, whether it’s building sleek frontends or debugging tough backend issues.
 
-### 📘 My Focus Right Now:
-I'm sharpening my React proficiency and expanding my backend technology knowledge. I'm also diving into Java basics and studying software methodologies for comprehensive project development.
+💡 Always Learning:
+Completed CS50, FreeCodeCamp, and NCFE Level 3 Coding Practices. I’m all about applying what I learn and improving as I go.
 
-### 🔍 What I'm Good At:
-I excel in creating seamless user experiences and ensuring robust performance behind the scenes.
-
-### 📚 Current Pursuit:
-Deep-diving into the MERN stack
-
-Leveling up in React & backend dev with tools like Postman and Insomnia
-
-Learning software dev best practices through hands-on testing and development
-
-### 🌟 Fun Fact:
-Often called lazy but get things done in style.
+🌟 Fun Fact:
+I may look lazy, but I get things done — in style. 😎
 
 ---
 

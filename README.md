@@ -1,8 +1,7 @@
-Aspiring Full-Stack Developer | 🚀 Lifelong Learner
-
-🎓 Recently completed CS50’s Introduction to Computer Science from Harvard via edX.
-📚 Hands-on with TypeScript, Java, and C#, explored during my NCFE Level 3 course in Coding Practices.
-🌟 Continuously honing skills and embracing new challenges in modern coding practices to stay ahead in the tech world.
+Full-Stack Developer in Progress | Blending Code & Quality 🚀
+🎓 Completed Harvard’s CS50 (via edX) — building a rock-solid foundation in computer science
+📚 Practical experience with TypeScript, Java, and C# through the NCFE Level 3 Certificate in Coding Practices
+🧪 Actively testing live projects through UTest, sharpening my eye for detail and real-world quality assurance
 
 ### 🚀 What I'm Up To:
 I am refining my skills in the **MERN** (MongoDB, Express.js, React.js, Node.js) stack and exploring backend development with Insomnia and Postman.

@@ -1,4 +1,5 @@
 Full-Stack Developer in Progress | Blending Code & Quality 🚀
+
 🎓 Completed Harvard’s CS50 (via edX) — building a rock-solid foundation in computer science
 📚 Practical experience with TypeScript, Java, and C# through the NCFE Level 3 Certificate in Coding Practices
 🧪 Actively testing live projects through UTest, sharpening my eye for detail and real-world quality assurance
